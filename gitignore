@@ -1,0 +1,25 @@
+# Vivado generated files - do not commit
+build/
+*.jou
+*.log
+*.str
+*.backup.jou
+*.backup.log
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.gen/
+*.xpr
+*.vcd
+*.wdb
+*.pb
+webtalk*
+vivado*.zip
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
