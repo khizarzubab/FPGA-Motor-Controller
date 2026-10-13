@@ -188,13 +188,4 @@ Important notes:
 - Do not hold the motor shaft or lock the output.
 - Always check wiring before applying 12 V.
 
-## Possible improvements
 
-- Read the Hall encoder for RPM measurement and display it on the seven-segment display
-- Closed-loop speed control (PID)
-- Soft-start and ramped speed changes
-- UART or button-based speed control instead of switches
-
-## License
-
-Add a license of your choice (for example MIT) by placing a `LICENSE` file in the repository root.
